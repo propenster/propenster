@@ -28,6 +28,7 @@ I love open source and I must also say that I eat bugs for breakfast...
     * [Email](mailto:faitholusegun60@gmail.com)
     * [LinkedIn](https://www.linkedin.com/in/faith-emmanuel-olusegun-1760a0166/)
     * [Facebook](https://facebook.com/faithemmanuel.olusegun)
+    * [Quora](https://www.quora.com/profile/Faith-Olusegun-2)
 - 😄 Pronouns: ...He/Him/His
 - ⚡ Fun fact: ... Once I gat some Caffeine, the rest is history mehn :rocket:
 - #### Favourite projects are pinned on my github page.
