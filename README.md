@@ -3,7 +3,15 @@
 <!--
 **propenster/propenster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Faith Olusegun is a cool software developer who is on fire... I convert coffee into code... You can find me here - [Github](https://github.com/propenster).
+
+I love people who are given to self-development and people that seek mentoring from other developers.
+
+I am building a startup - [WagLister](https://github.com/propenster/WagLister) which I've been so busy to focus on nowadays but I'll finish it....
+
+If I'm not fooling around with [Python](https://python.org) using [Django Framework](https://djangoproject.com) and Django REST Framework, I am probably writing Java, or what I do daily now, building minimalistic FinTech RESTful APIs with C# and ASP.NET Core. I am also obsessed with creating my database using scripts (rather than GUIs). I love Stored Procedures - Thanks to my boss who exposed me to them.
+
+I love open source. I eat bugs for breakfast.. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
