@@ -1,6 +1,6 @@
 ### Hi there, Welcome to Propenster's Github Profile :+1:
 
-##### System.Out.Console.WriteLine.echo.print("Goodbye Dlrow");:laugh:
+##### System.out.Console.WriteLine.echo.print("Goodbye Dlrow"); 😄
 
 Faith Olusegun is a cool software developer who is on fire... I convert coffee into code... You can find me here - [Github](https://github.com/propenster).
 
@@ -23,7 +23,7 @@ I love open source and I must also say that I eat bugs for breakfast...
 - 👯 I’m looking to collaborate on any project that makes the World a better place.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... Twitter [@propenster_dev](https://twitter.com/propenster_dev) [faitholusegun60@gmail.com](https://mail.google.com)
 - 😄 Pronouns: ...He/Him/His
 - ⚡ Fun fact: ... Once I gat some Caffeine, the rest is history mehn :rocket:
 - #### Favourite projects are pinned on my github page.
