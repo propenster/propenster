@@ -1,6 +1,6 @@
 ﻿### Hi there 👋
 
-<!--
+
 **propenster/propenster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Faith Olusegun is a cool software developer who is on fire... I convert coffee into code... You can find me here - [Github](https://github.com/propenster).
@@ -21,4 +21,4 @@ I love open source. I eat bugs for breakfast...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
