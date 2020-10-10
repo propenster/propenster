@@ -1,4 +1,4 @@
-### Hi there 👋
+﻿### Hi there 👋
 
 <!--
 **propenster/propenster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,7 @@ I am building a startup - [WagLister](https://github.com/propenster/WagLister) w
 
 If I'm not fooling around with [Python](https://python.org) using [Django Framework](https://djangoproject.com) and Django REST Framework, I am probably writing Java, or what I do daily now, building minimalistic FinTech RESTful APIs with C# and ASP.NET Core. I am also obsessed with creating my database using scripts (rather than GUIs). I love Stored Procedures - Thanks to my boss who exposed me to them.
 
-I love open source. I eat bugs for breakfast.. 
+I love open source. I eat bugs for breakfast... 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
