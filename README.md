@@ -1,7 +1,6 @@
-### Hi there 👋	
-### Welcome to Propenster's Github Profile 👋
+### Hi there, Welcome to Propenster's Github Profile :+1:
 
-
+****System.Out.Console.WriteLine.echo.print("Goodbye Dlrow");
 
 Faith Olusegun is a cool software developer who is on fire... I convert coffee into code... You can find me here - [Github](https://github.com/propenster).
 
