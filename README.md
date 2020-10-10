@@ -16,7 +16,7 @@ I am building a startup - [WagLister](https://github.com/propenster/WagLister) w
 
 If I'm not fooling around with [Python](https://python.org) using [Django Framework](https://djangoproject.com) and Django REST Framework, I am probably writing Java, or what I do daily now, building minimalistic FinTech RESTful APIs with C# and ASP.NET Core. I am also obsessed with creating my database using scripts (rather than GUIs). I love Stored Procedures - Thanks to my boss who exposed me to them. :+1:
 
-I also volunteer with Companies that use [PHP/Laravel] (https://laravel.com) when I'm not busy with my permanent work - weekends.
+I also volunteer with Companies that use [PHP/Laravel](https://laravel.com) when I'm not busy with my permanent work - weekends.
 
 I love open source and I must also say that I eat bugs for breakfast... 
 
