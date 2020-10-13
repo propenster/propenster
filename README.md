@@ -12,7 +12,7 @@ I love people who are given to self-development and people that seek mentoring f
 I am building a startup - [WagLister](https://github.com/propenster/WagLister) which I've been so busy to focus on nowadays but I'll finish it.... :sparkles: 
 
 
-If I'm not fooling around with [Python](https://python.org) using [Django Framework](https://djangoproject.com) and [Django REST Framework](https://www.django-rest-framework.org/), I am probably writing [Java](https://java.com), or what I do daily now, building minimalistic FinTech RESTful APIs with [C# and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core). I am also obsessed with creating my database using scripts (rather than GUIs). I love Stored Procedures - Thanks to my boss who exposed me to them. :+1:
+If I'm not fooling around with [Python](https://python.org) using [Django Framework](https://djangoproject.com) and [Django REST Framework](https://www.django-rest-framework.org/), I am probably writing [Java](https://java.com), or what I do daily now, building minimalistic FinTech RESTful APIs with [C# and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core). I am also obsessed with creating my database using scripts (rather than GUIs). I love [Stored Procedures](https://github.com/propenster/aspnetcore-angular/tree/main/DB_Resources) - Thanks to my boss who exposed me to them. :+1:
 
 I also volunteer with Companies that use [PHP/Laravel](https://laravel.com) when I'm not busy with my permanent work - weekends.
 
