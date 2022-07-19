@@ -4,6 +4,8 @@
 
 Faith Olusegun is a cool software developer who is on fire... I convert coffee into code... You can find me here - [Github](https://github.com/propenster).
 
+I write code, engineer softwares and application programming interfaces (APIS) that connect several financial institutions, tech companies together.
+
 
 
 I love people who are given to self-development and people that seek mentoring from other developers. :octocat:
@@ -19,7 +21,7 @@ I also volunteer with Companies that use [PHP/Laravel](https://laravel.com) when
 I love open source and I must also say that I eat bugs for breakfast... 
 
 - 🔭 I’m currently working on ... my startups [WagLister](https://github.com/propenster/WagLister) and [Tikki](https://github.com/propenster/Tikki) :+1:
-- 🌱 I’m currently learning ... Building Fluent API's with ASP.NET Core... 
+- 🌱 I’m currently Building Fluent API's with ASP.NET Core, Heavy FinTech APIS, REST and SOAP WebServices for companies whose valuation are in 8 figures USD... 
 - 👯 I’m looking to collaborate on any project that makes the World a better place.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
