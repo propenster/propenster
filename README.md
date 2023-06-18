@@ -1,10 +1,10 @@
-### Hi there, Welcome to Propenster's Github Profile :+1:
+### Hi there, Welcome to propenster's Github Profile :+1:
 
 ##### System.out.Console.WriteLine.echo.print("Goodbye Dlrow"); 😄
 
 Faith Olusegun is a software developer... I convert coffee into code... You can find me here - [Github](https://github.com/propenster).
 
-I write code, engineer softwares and application programming interfaces (APIS) that connect several financial institutions, tech companies together.
+I write code, engineer software and application programming interfaces (APIS) that connect several financial institutions, tech companies and government institutions together.
 
 
 
@@ -22,15 +22,13 @@ I love open source and I must also say that I eat bugs for breakfast...
 - 💬 Ask me about ... rust, C#, llm-chain (llm-chain-rs).
 - 📫 How to reach me: ... 
     * [Twitter@propenster_dev](https://twitter.com/propenster_dev) 
-    * [Email](mailto:faitholusegun60@gmail.com)
+    * [Email](mailto:faitholusegun60@gmail.com) or [propenster@proton.me](mailto:propenster@proton.me)
     * [LinkedIn](https://www.linkedin.com/in/faith-emmanuel-olusegun-1760a0166/)
     * [Facebook](https://facebook.com/faithemmanuel.olusegun)
     * [Quora](https://www.quora.com/profile/Faith-Olusegun-2)
     * [Stack Overflow](https://stackoverflow.com/users/14427078/propenster)
     * [My YouTube Channel](https://www.youtube.com/channel/UCSl6OzXEfKSwm1CBBJWumHQ)
-    * [My BackendAPIs](https://propenster-node-apis.herokuapp.com)
-    * [My Robust Microservices Suite built in ASP.NET Core 3.XX](http://propenster-001-site1.gtempurl.com/swagger/index.html)
 - 😄 Pronouns: ...He/Him/His
-- ⚡ Fun fact: ... Once I gat some Caffeine, the rest is history mehn :rocket:
+- ⚡ Fun fact: ... Once I some coffee, the rest is history :rocket:
 - #### Favourite projects are pinned on my github page.
 
