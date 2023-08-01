@@ -7,14 +7,15 @@ Faith Olusegun is a software developer... I convert coffee into code... You can 
 I write code, engineer software and application programming interfaces (APIS) that connect several financial institutions, tech companies and government institutions together.
 
 
-
 I am self-motivated and determined. I also love to seek mentoring from other engineers. :octocat:
 
-I write a lot [Rust](https://www.rust-lang.org/) code. Also, If I'm not fooling around with [Python](https://python.org) using [Django Framework](https://djangoproject.com) and [Django REST Framework](https://www.django-rest-framework.org/), I am probably writing [Java](https://java.com), or what I get paid to do daily now, building Enterprise-scale FinTech RESTful APIs with [C# and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core). I am also obsessed with creating my database using scripts (rather than GUIs). :+1:
+I write a lot [Rust](https://www.rust-lang.org/) code joyfully and opensourcefully at an unstoppable pace. To currently pay bills (this may change in the future), I use [Java](https://java.com), [C# and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core) and TypeScript to build Enterprise software solutions. :+1:
 
-I love open source and I must also say that I eat bugs for breakfast... 
+I love open source, I collaborate with other link minds to make our world a better place. I eat bugs for breakfast... 
 
-- 🔭 I like randomly working on unfinished startup projects [WagLister](https://github.com/propenster/WagLister) and [Tikki](https://github.com/propenster/Tikki) :+1:
+I use tabs not spaces except if I'm on VIM :+1:
+
+- 🔭 :+1:
 - 🌱 I’m currently Building Fluent API's with ASP.NET Core, Heavy FinTech APIS, REST and SOAP WebServices for companies whose valuation are in 8 figures USD...
 - I also write production-grade rust code on a daily basis.
 - 👯 I’m looking to collaborate on any project that benefits mankind.
@@ -29,6 +30,6 @@ I love open source and I must also say that I eat bugs for breakfast...
     * [Stack Overflow](https://stackoverflow.com/users/14427078/propenster)
     * [My YouTube Channel](https://www.youtube.com/channel/UCSl6OzXEfKSwm1CBBJWumHQ)
 - 😄 Pronouns: ...He/Him/His
-- ⚡ Fun fact: ... Once I some coffee, the rest is history :rocket:
+- ⚡ Fun fact: ... I'm full of Energy and Vibes :rocket:
 - #### Favourite projects are pinned on my github page.
 
