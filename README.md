@@ -9,7 +9,7 @@ I write code, engineer software and application programming interfaces (APIS) th
 
 I am self-motivated and determined. I also love to seek mentoring from other engineers. :octocat:
 
-I write a lot [Rust](https://www.rust-lang.org/) code joyfully and opensourcefully at an unstoppable pace. To currently pay bills (this may change in the future), I use [Java](https://java.com), [C# and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core) and TypeScript to build Enterprise software solutions. :+1:
+I write a lot [Rust](https://www.rust-lang.org/) code joyfully and opensourcefully at an unstoppable pace. To currently pay bills (this may change in the future), I use [Java](https://java.com), [C# and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core) and [TypeScript](https://www.typescriptlang.org/) to build Enterprise software solutions. :+1:
 
 I love open source, I collaborate with other link minds to make our world a better place. I eat bugs for breakfast... 
 
