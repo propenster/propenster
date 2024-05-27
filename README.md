@@ -17,3 +17,8 @@ programmer, computational biologist and open-source developer
 - ⚡ Fun fact: ... I'm full of Energy and Vibes :rocket:
 - #### Favourite projects are pinned on my github page.
 
+- ### <p>Profile overview: 
+
+![propenster's github stats](https://github-readme-stats.vercel.app/api?username=propenster&show_icons=true) 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=propenster">
+
