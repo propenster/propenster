@@ -19,6 +19,5 @@ programmer, computational biologist and open-source developer
 
 - ### <p>Profile overview: 
 
-![propenster's github stats](https://github-readme-stats.vercel.app/api?username=propenster&show_icons=true) 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=propenster">
+
 
