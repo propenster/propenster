@@ -1,8 +1,13 @@
 ### Hi there, Welcome to propenster's Github Profile :+1:
 
-programmer, computational biologist and open-source developer
+programmer, software engineer, computational biologist, and open-source developer
+C#, C++, TypeScript, Python
 
-- 💬 Ask me about ... rust, C#, llm-chain (llm-chain-rs), sequence alignment and similarity algorithms, bioinformatics.
+- 💬 Ask me about ... python, rust, C#, JAVA, Genomic Data Analysis, Big Data, llm-chain (llm-chain-rs), sequence alignment and similarity algorithms, bioinformatics.
+  
+- 😄 I am the creator and author of all these amazing software tools and open-source projects - [VealFramework](https://github.com/propenster/veal), [PipenGeneX](https://github.com/propenster/pipengenex), [FQL](https://github.com/propenster/fql), [FakerLib.Net](https://github.com/propenster/Faker.Net), [BioBencher](https://github.com/propenster/biobencher).
+
+  
 - 📫 How to reach me: ...
   
     * [Portolio and Personal Blog](https://propenster.github.io)
@@ -13,6 +18,7 @@ programmer, computational biologist and open-source developer
     * [Quora](https://www.quora.com/profile/Faith-Olusegun-2)
     * [Stack Overflow](https://stackoverflow.com/users/14427078/propenster)
     * [My YouTube Channel](https://www.youtube.com/@FaithOlusegun)
+  
 - 😄 Pronouns: ...He/Him/His
 - ⚡ Fun fact: ... I'm full of Energy and Vibes :rocket:
 - #### Favourite projects are pinned on my github page.
