@@ -1,6 +1,7 @@
 ### Hi there, Welcome to propenster's Github Profile :+1:
 
-##Faith EMMANUEL Olusegun
+## Faith EMMANUEL Olusegun
+
 programmer, software engineer, computational biologist, and open-source developer
 C#, C++, TypeScript, Python
 
