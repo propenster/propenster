@@ -22,7 +22,7 @@ C#, C++, TypeScript, Python
 - [FakerLib - a C#/.NET Package for generating synthetic data](https://github.com/propenster/Faker.Net)
 - [FQL - a file query language built with love in Rustlang, query files like you would SQL](https://github.com/propenster/fql)
 - [BioBencher - is a benchmark of bioinformatics and genomic analysis tools particularly MSA, phyllo tools](https://github.com/propenster/biobencher)
-- [bnms2py - Compile/Interprete Boolean and Multistate Networks to interpretable python syntax](https://github.com/propenster/bnms2py)
+- [bnms2py - a small compiler to compile Boolean and Multistate Networks to interpretable python syntax](https://github.com/propenster/bnms2py)
   
 - 📫 How to reach me: ...
   
