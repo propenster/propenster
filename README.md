@@ -23,6 +23,7 @@ C#, C++, TypeScript, Python
 - [FQL - a file query language built with love in Rustlang, query files like you would SQL](https://github.com/propenster/fql)
 - [BioBencher - is a benchmark of bioinformatics and genomic analysis tools particularly MSA, phyllo tools](https://github.com/propenster/biobencher)
 - [bnms2py - a small compiler to compile Boolean and Multistate Networks to interpretable python syntax](https://github.com/propenster/bnms2py)
+- [Early 2023 attempt to finetune Llama to help me with my ITIL v4 cert exam I was preparing for lol!](https://github.com/propenster/FineTuneLlama2Hf)
   
 - 📫 How to reach me: ...
   
