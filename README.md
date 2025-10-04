@@ -18,6 +18,9 @@ C#, C++, TypeScript, Python
 - [VealFramework - Highly Efficient and lean Web Application Development Framework](https://veal.readthedocs.io/en/latest/)
 - [text2bn - A language model for extracting and standardizing Boolean Gene Regulatory Network Models from any scientific paper or text sources](https://github.com/propenster/text2bn)
 - [TopScript - a functional interpreted programming language implemented in C#](https://github.com/propenster/topscript)
+- [PipenGeneX - is a framework for creating and running Bioinformatic pipeline workflows](https://github.com/propenster/pipengenex)
+- [FakerLib - a C#/.NET Package for generating synthetic data](https://github.com/propenster/Faker.Net)
+- [FQL - a file query language built with love in Rustlang, query files like you would SQL](https://github.com/propenster/fql)
   
 - 📫 How to reach me: ...
   
