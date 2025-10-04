@@ -16,6 +16,7 @@ C#, C++, TypeScript, Python
 - [DigitalShopper_Landing_Prototype](https://ubiquitous-souffle-7d4b31.netlify.app/)
 - [Payment.io Landing](https://serene-gates-afd38b.netlify.app/)
 - [VealFramework - Highly Efficient and lean Web Application Development Framework](https://veal.readthedocs.io/en/latest/)
+- [text2bn - A language model for extracting and standardizing Boolean Gene Regulatory Network Models from any text sources](https://github.com/propenster/text2bn)
   
 - 📫 How to reach me: ...
   
