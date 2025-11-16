@@ -2,8 +2,9 @@
 
 ## Faith EMMANUEL Olusegun
 
-programmer, software engineer, computational biologist, and open-source developer
-C#, C++, TypeScript, Python
+- programmer, fullstack software engineer, computational biologist, and open-source developer
+- C#, C++, Rust, TypeScript, Python
+- Angular, ASP.NET Core, .NET Framework, SpringBoot, Vert.x
 
 - 💬 Ask me about ... python, rust, C#, JAVA, Genomic Data Analysis, Big Data, llm-chain (llm-chain-rs), sequence alignment and similarity algorithms, bioinformatics.
   
