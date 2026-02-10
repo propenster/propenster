@@ -12,6 +12,12 @@
 - 😄 I am the creator and author of all these amazing software tools, libraries, and open-source projects - [VealFramework](https://github.com/propenster/veal), [PipenGeneX](https://github.com/propenster/pipengenex), [FQL](https://github.com/propenster/fql), [FakerLib.Net](https://github.com/propenster/Faker.Net), [BioBencher](https://github.com/propenster/biobencher).
 
 ## TOP PROJECTS
+
+### Bioinformatics
+- [scRNA_lung_covid - GSE171524](https://github.com/propenster/scRNA_lung_covid)
+- [dbprime - a toolkit for finding InDels and developing Molecular markers](https://github.com/propenster/dbprime)
+- [wexygen - A GATK-Based Whole Exome and Whole Genome Sequencing Analysis Toolkit](https://github.com/propenster/wexygen)
+
 ### Frontend with Angular
 - [Lagos Incident Reporter](https://melodious-manatee-57dfaf.netlify.app/)
 - [XMLToJSON_Converter_Online_Tool](https://thirsty-agnesi-fcaa76.netlify.app/)
