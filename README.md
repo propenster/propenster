@@ -14,6 +14,7 @@
 ## TOP PROJECTS
 
 ### Bioinformatics
+- [GGRNN - Infer GRN relationship from gene expression data training and testing on DREAM5 challenge dataset](https://github.com/propenster/ggrnn)
 - [GPlusD - GPlusD is a deep learning model designed to accurately classify and predict prokaryotic promoter sequences](https://github.com/propenster/gplusd)
 - [scRNA_lung_covid - GSE171524](https://github.com/propenster/scRNA_lung_covid)
 - [dbprime - a toolkit for finding InDels and developing Molecular markers](https://github.com/propenster/dbprime)
