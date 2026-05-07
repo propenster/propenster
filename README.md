@@ -45,6 +45,7 @@
 
 ### Go
 - [Needle is a utility tool that I use to scour through hundreds of log files for particular search terms](https://github.com/propenster/needle)
+- [BioEnv is a virtual environment for bioinformatics exploration, analysis and research](https://github.com/propenster/bioenv)
 
   
 - 📫 How to reach me: ...
