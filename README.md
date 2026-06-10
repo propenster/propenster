@@ -2,14 +2,14 @@
 
 ## Faith EMMANUEL Olusegun
 
-- programmer, fullstack software engineer, computational biologist, and open-source developer
-- C#, C++, JAVA, Rust, TypeScript, Python
+- Bioinformatician, programmer, fullstack software engineer, computational biologist, and open-source developer
+- C#, JAVA, Rust, TypeScript, Python
 - Angular, ASP.NET Core, .NET Framework, SpringBoot, Vert.x
 
-- 💬 Ask me about ... python, rust, C#, JAVA, Genomic Data Analysis, Big Data, llm-chain (llm-chain-rs), sequence alignment and similarity algorithms, bioinformatics.
+- 💬 Ask me about ... bioinformatics, statistical modeling, genome analysis, python, rust, C#, JAVA, Genomic Data Analysis,  sequence alignment and similarity algorithms, bioinformatics.
 - [Programming Tutorials on My YouTube Channel](https://youtube.com/faith-olusegun)
   
-- 😄 I am the creator and author of all these amazing software tools, libraries, and open-source projects - [VealFramework](https://github.com/propenster/veal), [PipenGeneX](https://github.com/propenster/pipengenex), [FQL](https://github.com/propenster/fql), [FakerLib.Net](https://github.com/propenster/Faker.Net), [BioBencher](https://github.com/propenster/biobencher).
+- 😄 I am the creator and author of several amazing software tools, libraries, and open-source projects - [VealFramework](https://github.com/propenster/veal), [PipenGeneX](https://github.com/propenster/pipengenex), [FQL](https://github.com/propenster/fql), [FakerLib.Net](https://github.com/propenster/Faker.Net), [BioBencher](https://github.com/propenster/biobencher).
 
 ## TOP PROJECTS
 
@@ -19,6 +19,11 @@
 - [scRNA_lung_covid - GSE171524](https://github.com/propenster/scRNA_lung_covid)
 - [dbprime - a toolkit for finding InDels and developing Molecular markers](https://github.com/propenster/dbprime)
 - [wexygen - A GATK-Based Whole Exome and Whole Genome Sequencing Analysis Toolkit](https://github.com/propenster/wexygen)
+
+### Python
+- [text2bn - A language model for extracting and standardizing Boolean Gene Regulatory Network Models from any scientific paper or text sources](https://github.com/propenster/text2bn)
+- [bnms2py - a small compiler to compile Boolean and Multistate Networks to interpretable python syntax](https://github.com/propenster/bnms2py)
+- [Early 2023 attempt to finetune Llama for ITIL v4 cert exam](https://github.com/propenster/FineTuneLlama2Hf)
 
 ### Frontend with Angular
 - [Lagos Incident Reporter](https://melodious-manatee-57dfaf.netlify.app/)
@@ -32,12 +37,7 @@
 - [PipenGeneX - is a framework for creating and running Bioinformatic pipeline workflows](https://github.com/propenster/pipengenex)
 - [FakerLib - a C#/.NET Package for generating synthetic data](https://github.com/propenster/Faker.Net)
 - [BioBencher - is a benchmark of bioinformatics and genomic analysis tools particularly MSA, phyllo tools](https://github.com/propenster/biobencher)
-
-### Python
-- [text2bn - A language model for extracting and standardizing Boolean Gene Regulatory Network Models from any scientific paper or text sources](https://github.com/propenster/text2bn)
-- [bnms2py - a small compiler to compile Boolean and Multistate Networks to interpretable python syntax](https://github.com/propenster/bnms2py)
-- [Early 2023 attempt to finetune Llama for ITIL v4 cert exam](https://github.com/propenster/FineTuneLlama2Hf)
-
+  
 ### Rust
 - [FQL - a file query language built with love in Rustlang, query files like you would SQL](https://github.com/propenster/fql)
 - [YamlTool - Convert application config for .NET, SprintBoot etc to kube-ready yaml](https://github.com/propenster/yamltool)
@@ -59,7 +59,7 @@
     * [Stack Overflow](https://stackoverflow.com/users/14427078/propenster)
     * [My YouTube Channel](https://www.youtube.com/@FaithOlusegun)
   
-- 😄 Pronouns: ...He/Him/His
+- Pronouns: ...He/Him/His
 - ⚡ Fun fact: ... I'm full of Energy and Vibes :rocket:
 - #### Favourite projects are pinned on my github page.
 
