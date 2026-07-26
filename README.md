@@ -26,6 +26,8 @@
 - [Early 2023 attempt to finetune Llama for ITIL v4 cert exam](https://github.com/propenster/FineTuneLlama2Hf)
 
 ### Frontend with Angular
+
+- [shopmart - an online shopping mall application with Angular](https://shopmart-sable.vercel.app/)
 - [Conglomerate - an enterprise dashboard application with Angular](https://conglomerate-83ynhsra9-propensters-projects.vercel.app/)
 - [Lagos Incident Reporter](https://melodious-manatee-57dfaf.netlify.app/)
 - [XMLToJSON_Converter_Online_Tool](https://thirsty-agnesi-fcaa76.netlify.app/)
