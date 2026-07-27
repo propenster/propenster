@@ -20,11 +20,11 @@
 |------|------|
 | [shopmart - an online shopping mall application](https://shopmart-sable.vercel.app/) | https://github.com/propenster/shopmart |
 | [Conglomerate - enterprise dashboard](https://conglomerate-83ynhsra9-propensters-projects.vercel.app/) | https://github.com/propenster/conglomerate |
-| [Angular11Complex - A full site, that contains a Blog, Bookstore, and a Shop all in Angular using json-server and Django Backend](https://angular11-complex-beta.vercel.app/) | https://github.com/propenster/Angular11Complex |
 | [NgRunCodeAnytime](https://thirsty-agnesi-fcaa76.netlify.app/) | https://github.com/propenster/ng-run-code-anytime-io |
 | [Angular Weather App](https://thirsty-agnesi-fcaa76.netlify.app/) | https://github.com/propenster/angular-weather-app |
 | [BurgerRestaurant Product Page](https://gallant-haibt-e4cda0.netlify.app/) | https://github.com/propenster/burger-restaurant-product-page |
 | [DigitalShopper Landing Prototype](https://ubiquitous-souffle-7d4b31.netlify.app/) | https://github.com/propenster/digitalshopper-landing |
+| [Angular11Complex - A full site, that contains a Blog, Bookstore, and a Shop all in Angular using json-server and Django Backend](https://angular11-complex-beta.vercel.app/) | https://github.com/propenster/Angular11Complex |
 | [Lagos Incident Reporter](https://melodious-manatee-57dfaf.netlify.app/) | https://github.com/propenster/lagos-incident-reporter |
 | [Payment.io Landing](https://serene-gates-afd38b.netlify.app/) | https://github.com/propenster/payment-io-landing |
 
