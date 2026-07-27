@@ -13,6 +13,21 @@
 
 ## TOP PROJECTS
 
+
+### Angular
+
+| Demo | Code |
+|------|------|
+| [shopmart - an online shopping mall application](https://shopmart-sable.vercel.app/) | https://github.com/propenster/**shopmart** |
+| [Conglomerate - enterprise dashboard](https://conglomerate-83ynhsra9-propensters-projects.vercel.app/) | https://github.com/propenster/**conglomerate** |
+| [Lagos Incident Reporter](https://melodious-manatee-57dfaf.netlify.app/) | https://github.com/propenster/**lagos-incident-reporter** |
+| [XMLToJSON Converter Tool](https://thirsty-agnesi-fcaa76.netlify.app/) | https://github.com/propenster/**xmltojson-converter** |
+| [BurgerRestaurant Product Page](https://gallant-haibt-e4cda0.netlify.app/) | https://github.com/propenster/**burger-restaurant-product-page** |
+| [DigitalShopper Landing Prototype](https://ubiquitous-souffle-7d4b31.netlify.app/) | https://github.com/propenster/**digitalshopper-landing** |
+| [Payment.io Landing](https://serene-gates-afd38b.netlify.app/) | https://github.com/propenster/**payment-io-landing** |
+
+
+
 ### Bioinformatics
 - [GGRNN - Infer GRN relationship from gene expression data, training and testing on DREAM5 challenge dataset](https://github.com/propenster/ggrnn)
 - [GPlusD - GPlusD is a deep learning model designed to accurately classify and predict prokaryotic promoter sequences](https://github.com/propenster/gplusd)
@@ -20,36 +35,26 @@
 - [dbprime - a toolkit for finding InDels and developing Molecular markers](https://github.com/propenster/dbprime)
 - [wexygen - A GATK-Based Whole Exome and Whole Genome Sequencing Analysis Toolkit](https://github.com/propenster/wexygen)
 
-### Python
-- [text2bn - A language model for extracting and standardizing Boolean Gene Regulatory Network Models from any scientific paper or text sources](https://github.com/propenster/text2bn)
-- [bnms2py - a small compiler to compile Boolean and Multistate Networks to interpretable python syntax](https://github.com/propenster/bnms2py)
-- [Early 2023 attempt to finetune Llama for ITIL v4 cert exam](https://github.com/propenster/FineTuneLlama2Hf)
-
-### Frontend with Angular
-
-- [shopmart - an online shopping mall application with Angular](https://shopmart-sable.vercel.app/)
-- [Conglomerate - an enterprise dashboard application with Angular](https://conglomerate-83ynhsra9-propensters-projects.vercel.app/)
-- [Lagos Incident Reporter](https://melodious-manatee-57dfaf.netlify.app/)
-- [XMLToJSON_Converter_Online_Tool](https://thirsty-agnesi-fcaa76.netlify.app/)
-- [BurgerRestaurant_ProductPage](https://gallant-haibt-e4cda0.netlify.app/)
-- [DigitalShopper_Landing_Prototype](https://ubiquitous-souffle-7d4b31.netlify.app/)
-- [Payment.io Landing](https://serene-gates-afd38b.netlify.app/)
 ### C# and .NET
 - [VealFramework - Highly Efficient and lean Web Application Development Framework](https://veal.readthedocs.io/en/latest/)
 - [TopScript - a functional interpreted programming language implemented in C#](https://github.com/propenster/topscript)
 - [PipenGeneX - is a framework for creating and running Bioinformatic pipeline workflows](https://github.com/propenster/pipengenex)
 - [FakerLib - a C#/.NET Package for generating synthetic data](https://github.com/propenster/Faker.Net)
 - [BioBencher - is a benchmark of bioinformatics and genomic analysis tools particularly MSA, phyllo tools](https://github.com/propenster/biobencher)
-  
-### Rust
-- [FQL - a file query language built with love in Rustlang, query files like you would SQL](https://github.com/propenster/fql)
-- [YamlTool - Convert application config for .NET, SprintBoot etc to kube-ready yaml](https://github.com/propenster/yamltool)
-- [Sluggify-rs - slug or clean url generator library for Rust](https://github.com/propenster/sluggify-rs)
 
 ### Go
 - [Needle is a utility tool that I use to scour through hundreds of log files for particular search terms](https://github.com/propenster/needle)
 - [BioEnv is a virtual environment for bioinformatics exploration, analysis and research](https://github.com/propenster/bioenv)
 
+### Python
+- [text2bn - A language model for extracting and standardizing Boolean Gene Regulatory Network Models from any scientific paper or text sources](https://github.com/propenster/text2bn)
+- [bnms2py - a small compiler to compile Boolean and Multistate Networks to interpretable python syntax](https://github.com/propenster/bnms2py)
+- [Early 2023 attempt to finetune Llama for ITIL v4 cert exam](https://github.com/propenster/FineTuneLlama2Hf)
+  
+### Rust
+- [FQL - a file query language built with love in Rustlang, query files like you would SQL](https://github.com/propenster/fql)
+- [YamlTool - Convert application config for .NET, SprintBoot etc to kube-ready yaml](https://github.com/propenster/yamltool)
+- [Sluggify-rs - slug or clean url generator library for Rust](https://github.com/propenster/sluggify-rs)
   
 - 📫 How to reach me: ...
   
