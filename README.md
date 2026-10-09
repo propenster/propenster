@@ -31,6 +31,7 @@
 
 
 ### Bioinformatics
+- [swine-flu-tracker](https://github.com/propenster/swine-flu-tracker)
 - [GGRNN - Infer GRN relationship from gene expression data, training and testing on DREAM5 challenge dataset](https://github.com/propenster/ggrnn)
 - [GPlusD - GPlusD is a deep learning model designed to accurately classify and predict prokaryotic promoter sequences](https://github.com/propenster/gplusd)
 - [scRNA_lung_covid - GSE171524](https://github.com/propenster/scRNA_lung_covid)
