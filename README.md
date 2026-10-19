@@ -31,6 +31,7 @@
 
 
 ### Bioinformatics
+- [PRRSifier - Evolutionary lineage and clade classification for PRRSv1 and PRRSv2](https://hub.docker.com/r/propenster/prrsifier)
 - [swine-flu-tracker -  tracks swine influenza HA strains in the US](https://github.com/propenster/swine-flu-tracker)
 - [GGRNN - Infer GRN relationship from gene expression data, training and testing on DREAM5 challenge dataset](https://github.com/propenster/ggrnn)
 - [GPlusD - GPlusD is a deep learning model designed to accurately classify and predict prokaryotic promoter sequences](https://github.com/propenster/gplusd)
